@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 ### 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://x.com/_ayush27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush27" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kumarayushx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumarayush" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kumar-ayush-xe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumarayush" height="30" width="40" /></a>
 <a href="https://www.instagram.com/krayush27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krayush27" height="30" width="40" /></a>
 
 
